@@ -14,6 +14,7 @@ class link():
             tmp.next=Node(data)
             tmp=tmp.next
 
+
     def prin(self):
         tmp=self.head
         while(tmp):
